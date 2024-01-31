@@ -1,0 +1,2 @@
+To compile a file ===> tsc app.ts
+To run a file ===> node app.ts
